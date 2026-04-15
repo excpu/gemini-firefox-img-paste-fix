@@ -1,0 +1,1 @@
+# gemini-firefox-img-paste-fix
